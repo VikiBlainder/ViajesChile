@@ -1,5 +1,9 @@
 
 
+.navbar {
+    background-color: transparent;
+}
+
 h2 {
     font-family: 'Quicksand', sans-serif;
 }
@@ -7,11 +11,14 @@ h2 {
 #cajas
 {
     border-width: 70px;
+
 }
+
+
 
 
 #viajesFooter
 {
-    margin-top: 0px;
-    
+    margin-top: 10%;
+    text-align: center;
 }
